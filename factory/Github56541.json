@@ -1,0 +1,9 @@
+{
+	"name": "Github56541",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0fa3b952-ca34-46a5-a7eb-1ea470ceafae",
+		"tenantId": "31acfd86-fac1-4552-8a55-41a7617c382e"
+	}
+}
